@@ -14,7 +14,4 @@ def fibonacci(n):
             b = c
         return b
  
-# Driver Program
- 
- 
 print(fibonacci(9))
