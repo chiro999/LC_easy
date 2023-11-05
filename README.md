@@ -1,3 +1,3 @@
-# LC_easy
+# LC_blind75
 
-## Exploring possible Leetcode easy problems.
+## Exploring possible Leetcode and common interview problems.
